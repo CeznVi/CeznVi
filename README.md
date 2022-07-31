@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CeznVi, from brave country 🇺 U+1F1FA
+- 👋 Hi, I’m @CeznVi, from brave country 💙💛
 - 👀 I’m interested in learning C++
 - 🌱 I’m currently learning C++
 
