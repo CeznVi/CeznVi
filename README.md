@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CeznVi
+- 👋 Hi, I’m @CeznVi, from brave country 🇺🇦
 - 👀 I’m interested in learning C++
 - 🌱 I’m currently learning C++
 
