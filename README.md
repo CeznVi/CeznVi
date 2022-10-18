@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CeznVi, from brave country 💙💛
-- 👀 I’m interested in learning C++
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in learning C++,C#
+- 🌱 I’m currently learning C#
 
 <!---
 CeznVi/CeznVi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
