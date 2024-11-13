@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CeznVi, from brave country 💙💛 🇺🇦
+- 👋 Hi, I’m @CeznVi
 - 👀 I’m interested in learning C++, C#, TSQL, HTML, CSS
 - 🌱 I’m currently learning C#, TSQL, HTML, CSS
 
